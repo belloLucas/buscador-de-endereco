@@ -9,3 +9,20 @@ O desafio consiste na criação de uma aplicação web usando o Vue.js, que tenh
 Para conhecer mais sobre a Stemis acesse o nosso [site](https://www.stemis.com.br).
 
 Para ficar informado sobre futuros processos seletivos, siga a gente no Instagram [@stemis.tec](https://www.instagram.com/stemis.tec)
+
+## Como baixar
+1. Clone este repositório:
+```bash
+git clone https://github.com/belloLucas/buscador-de-endereco.git
+```
+
+## Como executar
+1. Instale as dependências:
+   ```bash
+   npm install
+   ```
+2. Rode o projeto:
+   ```bash
+   npm run dev
+   ```
+3. Acesse o projeto através do endereço provido no terminal.
